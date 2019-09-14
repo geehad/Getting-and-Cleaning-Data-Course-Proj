@@ -1,6 +1,7 @@
 #Loading required packages
 
 library(dplyr)
+library(plyr)
 
 # set the working directory to the folder of the data 
 setwd("C:/Users/gehad/Desktop/getdata_projectfiles_UCIHARDataset/UCIHARDataset")
